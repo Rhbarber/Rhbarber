@@ -1,3 +1,9 @@
+<h2 align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=750)](https://github.com/Rhbarber/github-readme-stats">
+  </a>
+</h2>
+
 <!-- Stats Card -->
 [![Rhbarber's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=750)](https://github.com/Rhbarber/github-readme-stats)
 
