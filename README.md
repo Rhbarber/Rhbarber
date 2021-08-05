@@ -1,4 +1,5 @@
 <!-- Stats Badges -->
+<!-- target="_blank" does not work on GitHub, fun. -->
 <h3 align="center">
   <a href="https://discord.com/invite/D79gu7Na57" target="_blank" rel="noopener noreferrer" alt="Discord">
       <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue">
