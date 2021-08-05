@@ -11,7 +11,7 @@
   
 <!-- Wakatime Week Stats -->
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&custom_title=Rhbarber WakaTime Stats&theme=radical&layout=compact)]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&custom_title=Nabetse's WakaTime Stats&theme=radical&layout=compact)]">
   </a>
 </h2>
 
