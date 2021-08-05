@@ -1,12 +1,12 @@
 <!-- Stats Badges -->
 <h3 align="center">
-  <a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
+  <a href="https://discord.com/invite/D79gu7Na57" alt="Discord" target="_blank">
       <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue"/>
   </a>
   <a href="https://github.com/Rhbarber">
       <img src="https://img.shields.io/github/followers/Rhbarber?label=Followers&style=for-the-badge&color=lightgrey">
   </a>
-  <a href="https://twitter.com/Rhb4rber" alt="Twitter">
+  <a href="https://twitter.com/Rhb4rber" alt="Twitter" target="_blank">
       <img src="https://img.shields.io/twitter/follow/Rhb4rber?&style=for-the-badge&color=lightblue"/>
   </a>
 </h3>
