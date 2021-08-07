@@ -1,18 +1,14 @@
 <!-- Stats Badges -->
-<!-- target="_blank" does not work on GitHub, fun. -->
 <h3 align="center">
-  <a href="https://discord.com/invite/D79gu7Na57" target="_blank" rel="noopener noreferrer" alt="Discord">
+  <a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
       <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue">
   </a>
-  <a href="https://cloud.rhbarber.com">
+  <a href="https://cloud.rhbarber.com" alt="Cloud Server">
       <img src="https://img.shields.io/website?label=cloud.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fcloud.rhbarber.com">
   </a>
-  <a href="https://twitter.com/Rhb4rber" target="_blank" rel="noopener noreferrer" alt="Twitter">
+  <a href="https://twitter.com/Rhb4rber" alt="Twitter">
       <img src="https://img.shields.io/twitter/follow/Rhb4rber?&style=for-the-badge&color=lightblue">
   </a>
-  <!--<a href="https://github.com/Rhbarber">
-      <img src="https://img.shields.io/github/followers/Rhbarber?label=Followers&style=for-the-badge&color=lightgrey">
-  </a>-->
 </h3>
 
 <!-- Stats Card -->
@@ -26,7 +22,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhbarber&repo=github-readme-stats&langs_count=5&show_icons=true&theme=radical&layout=compact&card_width=445)]">
   </a>
   
-<!-- Wakatime Week Stats -->
+<!-- Wakatime Time Stats -->
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&custom_title=Nabetse's WakaTime Stats&theme=radical&layout=compact)]">
   </a>
