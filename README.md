@@ -18,8 +18,6 @@
   </a>
 </h3>
 
-<br />
-
 <!-- Stats Badges -->
 <!-- target="_blank" does not work on GitHub, fun. -->
 <h3 align="center">
