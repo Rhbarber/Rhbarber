@@ -1,23 +1,3 @@
-<!-- "Contact with me" section -->
-<h3 align="center">
-  Connect with me:
-  <a href="https://rhbarber.com" alt="Rhbarber | Website">
-      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" align="center">
-  </a>
-  <a href="https://instagram.com/its.nabetse" alt="Rhbarber | Instagram">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.1/icons/instagram.svg" width="22px" align="center">
-  </a>
-  <a href="mailto:me@rhbarber.com" alt="Rhbarber | Email">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
-  </a>
-  <a href="https://steamcommunity.com/id/Rhbarber" alt="Rhbarber | Steam">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/steam.svg" width="22px" align="center">
-  </a>
-  <a href="https://twitch.tv/Rhbarber" alt="Rhbarber | Twitch">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/twitch.svg" width="22px" align="center">
-  </a>
-</h3>
-
 <!-- Stats Badges -->
 <!-- target="_blank" does not work on GitHub, fun. -->
 <h3 align="center">
@@ -36,7 +16,7 @@
 </h3>
 
 <!-- Stats Card -->
-<h3 align="center">
+<h2 align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=750)]">
   </a>
@@ -49,6 +29,26 @@
 <!-- Wakatime Week Stats -->
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&custom_title=Nabetse's WakaTime Stats&theme=radical&layout=compact)]">
+  </a>
+</h2>
+
+<!-- "Contact with me" section -->
+<h3 align="center">
+  Connect with me:
+  <a href="https://rhbarber.com" alt="Rhbarber | Website">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" align="center">
+  </a>
+  <a href="https://instagram.com/its.nabetse" alt="Rhbarber | Instagram">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.1/icons/instagram.svg" width="22px" align="center">
+  </a>
+  <a href="mailto:me@rhbarber.com" alt="Rhbarber | Email">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
+  </a>
+  <a href="https://steamcommunity.com/id/Rhbarber" alt="Rhbarber | Steam">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/steam.svg" width="22px" align="center">
+  </a>
+  <a href="https://twitch.tv/Rhbarber" alt="Rhbarber | Twitch">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/twitch.svg" width="22px" align="center">
   </a>
 </h3>
 
