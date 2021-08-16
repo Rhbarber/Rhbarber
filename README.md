@@ -1,16 +1,16 @@
 <!-- Stats Badges -->
 <h3 align="center">
-  <a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
+  <!--<a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
       <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue">
-  </a>
+  </a>-->
   <a href="https://cloud.rhbarber.com" alt="Cloud Server">
       <img src="https://img.shields.io/website?label=cloud.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fcloud.rhbarber.com">
   </a>
-  <a href="https://paste.rhbarber.com" alt="Paste Server">
-      <img src="https://img.shields.io/website?label=paste.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fpaste.rhbarber.com">
-  </a>
   <a href="https://twitter.com/Rhb4rber" alt="Twitter">
       <img src="https://img.shields.io/twitter/follow/Rhb4rber?&style=for-the-badge&color=lightblue">
+  </a>
+  <a href="https://paste.rhbarber.com" alt="Paste Server">
+      <img src="https://img.shields.io/website?label=paste.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fpaste.rhbarber.com">
   </a>
 </h3>
 
