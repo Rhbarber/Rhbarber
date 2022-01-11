@@ -44,9 +44,9 @@
   <a href="https://rhbarber.com" alt="Rhbarber | Website">
       <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" align="center">
   </a>
-  <a href="https://instagram.com/its.nabetse" alt="Rhbarber | Instagram">
+  <!--<a href="https://instagram.com/its.nabetse" alt="Rhbarber | Instagram">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.1/icons/instagram.svg" width="22px" align="center">
-  </a>
+  </a>-->
   <a href="mailto:me@rhbarber.com" alt="Rhbarber | Email">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
   </a>
