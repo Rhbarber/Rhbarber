@@ -1,17 +1,18 @@
 <!-- Stats Badges -->
 <h3 align="center">
-  <!--<a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
-      <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue">
-  </a>-->
-  <a href="https://paste.rhbarber.com" alt="Paste Server">
-      <img src="https://img.shields.io/website?label=paste.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fpaste.rhbarber.com">
+  <a href="https://rhbarber.com" alt="Website">
+      <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Frhbarber.com">
   </a>
   <a href="https://twitter.com/Rhb4rber" alt="Twitter">
       <img src="https://img.shields.io/twitter/follow/Rhb4rber?&style=for-the-badge&color=lightblue">
   </a>
-  <a href="https://whoogle.rhbarber.com" alt="Whoogle Server">
-      <img src="https://img.shields.io/website?label=whoogle.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fwhoogle.rhbarber.com">
+  <a href="https://twitch.tv/Rhbarber" alt="Twitch">
+      <img src="https://img.shields.io/twitch/status/Rhbarber?style=for-the-badge">
   </a>
+  
+  <!--<a href="https://whoogle.rhbarber.com" alt="Whoogle Server">
+      <img src="https://img.shields.io/website?label=whoogle.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fwhoogle.rhbarber.com">
+  </a>-->
 </h3>
 
 <!-- Discord Activity -->
