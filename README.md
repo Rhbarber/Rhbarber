@@ -51,6 +51,9 @@
   <a href="mailto:me@rhbarber.com" alt="Rhbarber | Email">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
   </a>
+  <a href="https://www.linkedin.com/in/rhbarber/" alt="Rhbarber | Linkedin">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/linkedin.svg" width="22px" align="center">
+  </a>
   <a href="https://steamcommunity.com/id/Rhbarber" alt="Rhbarber | Steam">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/steam.svg" width="22px" align="center">
   </a>
