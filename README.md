@@ -45,14 +45,14 @@
   <a href="https://rhbarber.com" alt="Rhbarber | Website">
       <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" align="center">
   </a>
-  <!--<a href="https://instagram.com/its.nabetse" alt="Rhbarber | Instagram">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.8.1/icons/instagram.svg" width="22px" align="center">
-  </a>-->
   <a href="mailto:me@rhbarber.com" alt="Rhbarber | Email">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/gmail.svg" width="22px" align="center">
   </a>
   <a href="https://www.linkedin.com/in/rhbarber/" alt="Rhbarber | Linkedin">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/linkedin.svg" width="22px" align="center">
+  </a>
+  <a href="https://discord.com/users/367779328940965898" alt="Rhbarber | Discord">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/discord.svg" width="22px" align="center">
   </a>
   <a href="https://steamcommunity.com/id/Rhbarber" alt="Rhbarber | Steam">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.1/icons/steam.svg" width="22px" align="center">
