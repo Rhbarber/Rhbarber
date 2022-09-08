@@ -35,7 +35,7 @@
   
 <!-- Wakatime Time Stats -->
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&custom_title=Nabetse's WakaTime Stats&theme=radical&layout=compact)]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&custom_title=Nabetse's%20Wakatime%20Stats">
   </a>
 </h2>
 
