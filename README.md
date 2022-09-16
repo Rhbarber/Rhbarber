@@ -25,7 +25,7 @@
 <!-- Stats Card -->
 <h2 align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=500]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=495]">
   </a>
    
 <!-- Top Languages Card -->
