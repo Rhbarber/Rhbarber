@@ -13,7 +13,7 @@
 
 <!-- Discord Activity -->
 <h3 align="center">
-  <a href="https://discord.com/users/367779328940965898">
+  <a href="https://discord.com/users/367779328940965898"> <button onclick="hidetr('faq5')"></button>
     <img src="https://lanyard-profile-readme.vercel.app/api/367779328940965898?animated=true?" align="center" height="265" width=500>
   </a>
 </h3>
@@ -31,7 +31,7 @@
 
 <!-- Wakatime Time Stats -->
   <a href="https://wakatime.com/@Rhbarber"> <button onclick="hidetr('faq5')"></button>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=400&custom_title=Nabetse's%20Wakatime%20Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=415&custom_title=Nabetse's%20Wakatime%20Stats">
   </a>
 </h3>
 
