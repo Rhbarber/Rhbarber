@@ -19,23 +19,22 @@
 </h3>
 
 <!-- Stats Card -->
-<h2 align="center">
+
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=450]">
+  </a>
+   
+<!-- Top Languages Card -->
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhbarber&repo=github-readme-stats&langs_count=5&show_icons=true&theme=radical&layout=compact&card_width=500)]">
   </a>
 
 <!-- Wakatime Time Stats -->
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=400&custom_title=Nabetse's%20Wakatime%20Stats">
   </a>
-</h2>
-   
-<!-- Top Languages Card -->
-  <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhbarber&repo=github-readme-stats&langs_count=5&show_icons=true&theme=radical&layout=compact&card_width=500)]">
-  </a>
-  
 
+  
 <!-- "Contact with me" section -->
 <h3 align="center">
   Connect with me:
