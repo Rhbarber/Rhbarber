@@ -14,7 +14,7 @@
 <!-- Discord Activity -->
 <h3 align="center">
   <a href="https://discord.com/users/367779328940965898">
-    <img src="https://lanyard-profile-readme.vercel.app/api/367779328940965898?animated=true?" align="center" height="250" width=475>
+    <img src="https://lanyard-profile-readme.vercel.app/api/367779328940965898?animated=true?" align="center" height="265" width=500>
   </a>
 </h3>
 
