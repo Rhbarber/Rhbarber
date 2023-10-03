@@ -19,7 +19,7 @@
 </h3>
 
 <!-- Stats Card -->
-
+<h2 align="center">
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rhbarber&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=radical&card_width=450]">
   </a>
@@ -33,6 +33,7 @@
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=400&custom_title=Nabetse's%20Wakatime%20Stats">
   </a>
+</h2>
 
   
 <!-- "Contact with me" section -->
