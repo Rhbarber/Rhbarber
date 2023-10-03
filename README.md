@@ -31,7 +31,7 @@
 
 <!-- Wakatime Time Stats -->
   <a href="https://wakatime.com/@Rhbarber"> <button onclick="hidetr('faq5')"></button>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=425&custom_title=Nabetse's%20Wakatime%20Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rhbarber&langs_count=5&theme=radical&layout=compact&card_width=500&custom_title=Nabetse's%20Wakatime%20Stats">
   </a>
 </h3>
 
