@@ -9,10 +9,6 @@
   <a href="https://twitch.tv/Rhbarber" alt="Twitch">
       <img src="https://img.shields.io/twitch/status/Rhbarber?style=for-the-badge">
   </a>
-  
-  <!--<a href="https://whoogle.rhbarber.com" alt="Whoogle Server">
-      <img src="https://img.shields.io/website?label=whoogle.rhbarber.com&style=for-the-badge&url=https%3A%2F%2Fwhoogle.rhbarber.com">
-  </a>-->
 </h3>
 
 <!-- Discord Activity -->
