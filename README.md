@@ -3,8 +3,8 @@
   <a href="https://rhbarber.com" alt="Website">
       <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Frhbarber.com">
   </a>
-  <a href="https://twitter.com/Rhb4rber" alt="Twitter">
-      <img src="https://img.shields.io/twitter/follow/Rhb4rber?&style=for-the-badge&color=lightblue">
+  <a href="https://twitter.com/its_nabetse" alt="Twitter">
+      <img src="https://img.shields.io/twitter/follow/its_nabetse?&style=for-the-badge&color=lightblue">
   </a>
   <a href="https://twitch.tv/Rhbarber" alt="Twitch">
       <img src="https://img.shields.io/twitch/status/Rhbarber?style=for-the-badge">
