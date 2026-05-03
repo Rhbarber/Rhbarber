@@ -12,11 +12,11 @@
 </h3>
 
 <!-- Discord Activity -->
-<h3 align="center">
+<!--<h3 align="center">
   <a href="https://discord.com/users/367779328940965898"> <button onclick="hidetr('faq5')"></button>
     <img src="https://lanyard-profile-readme.vercel.app/api/367779328940965898?animated=true?" align="center" height="265" width=500>
   </a>
-</h3>
+</h3>-->
 
 <!-- Stats Card -->
 <h3 align="center">
